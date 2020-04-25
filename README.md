@@ -1,7 +1,7 @@
 # Energy-Monitoring-Software
 This is an Energy Monitoring Software developed as part of my final year research project. 
 
-The solution is comprised of a server and multiple client software existing either on Windows or Android devices connected to a Local Area Network using Ethernet or Wi-Fi.
+The solution is comprised of a TCP server and multiple TCP client software existing either on Windows or Android devices connected to a Local Area Network using Ethernet or Wi-Fi.
 
 The server connects to a MySQL data table and imports data figures from it.
 
