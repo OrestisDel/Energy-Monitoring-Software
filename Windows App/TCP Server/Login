@@ -71,6 +71,7 @@ namespace login
 
         private void Txt_Password_TextChanged(object sender, EventArgs e)
         {
+			//mask characters entered in the text box
             txt_Password.PasswordChar = '*';
         }
     }
